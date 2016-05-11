@@ -7,7 +7,7 @@ Sample PCB:
 
 100x100 mm board samples from Dirty PCB?
 
-TODO:
+## TODO:
 - design sample PCB to accomodate all connectors that are present currently on LimeSDR
 - design Front panel
 	-	10x SMA connectors
