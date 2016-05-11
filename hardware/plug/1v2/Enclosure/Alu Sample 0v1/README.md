@@ -1,6 +1,10 @@
 Already available suitable enclosures?
+<<<<<<< HEAD
 Decided for higher 43 mm enclosure to fit all 10 SMA connectors on front panel
 
+=======
+Decided for higher 43mm enclosure to fit all 10 SMA connectors on front panel
+>>>>>>> origin/master
 ![Sample Enclosure](_images/encl1.jpg)
 
 Sample PCB:
@@ -26,8 +30,11 @@ KiCad 3d Viewer: Render with diff. SMA connectors then ordered suitable for this
 	-   DIP
 	-   LEDs
 	- 	FPGA I/O
+<<<<<<< HEAD
 
 
 links:
 
 [Aliexpress Sample Enclosure ](http://www.aliexpress.com/item/1-piece-free-shipping-aluminium-enclosures-junction-box-43-H-x66-W-X100-L-mm-for/32351356838.html)
+=======
+>>>>>>> origin/master
