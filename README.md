@@ -1,9 +1,9 @@
-## Fork of LimeSDR-USB development board
-### I beginning plan to add Enclosure files for micro USB3.0 model
+### Making Enclosure for 1v2 micro USB type
 
 ---> More in:
-[hardware/plug/1v2/Enclosure/](https://github.com/luftek/LimeSDR-USB/tree/master/hardware/plug/1v2/Enclosure/Alu%20Sample%200v1)
+[hardware/plug/1v2/Enclosure/](https://github.com/luftek/LimeSDR-USB/tree/master/hardware/plug/1v2/Enclosure/0v2_Alu_Sample)
 
+![Sample Enclosure 0v1](hardware/plug/1v2/Enclosure/0v2_Alu_Sample/_images/0v1_3.jpg)
 
 # LimeSDR
 
