@@ -2,19 +2,35 @@
 
 ![Sample Enclosure](_images/0v1_3.jpg) 
 
-### In this version 0v2
+### In 0v2
 
-I will try a different approach for placing pcb in enclosure. I will use wider enclosure due to issues of only narrow sideband available on LimeSDR PCB (slightly more than 1mm). 
+I will try a different approach for placing pcb in enclosure. I will use wider enclosure due to issues of only narrow sideband available on LimeSDR PCB (slightly more than 1mm).
+Also position SMA connectors more than 13 mm apart for direct connection of antenna. Latest min. 16 mm
 
-I ordered 76 mm and 94 mm wide enclosures of 35 and 40 mm height. Length stays same 100 mm. New samples are also split design (bottom and top part)
+I received 94 mm wide and 40 mm high enclosure split design. Front panel needs user input on LED placement.
 
-![Sample Enclosure](_images/encl2.jpg)
+![Sample Enclosure](http://img.banggood.com/thumb/view/oaupload/banggood/images/54/ED/26e3b3f7-bf82-4c4e-8be3-5ad57a7bc046.jpg)
 
-## TODO:
-- design holding tabs and fix with M3 screw+nut
+
+## DONE?
+Front panel needs user input on LED placement.
+
 - design Front panel
 	-	10x SMA connectors
+
+![0v2_front_render](_images/0v2_front_render.jpg) 
+![0v2_back_render_notOK](_images/0v2_back_render_notOK.jpg) 
+![Lime_connector_clone](_images/Lime_connector_clone.jpg)
+
+
+
+## TODO:
+- design holding tabs and fix with M3 screw+nut (board is on top of tabs, clearence of bottom components)
 - and Back panel
 	-	1X SMA for clock
 	-   two holes for micro USB and DC socket
-- check needed lengths of cables from panel to board
+- check needed lengths of cables from panel to board (currently it seems 5cm will be plenty)
+
+
+
+[http://www.banggood.com/Black-Aluminum-Case-DIY-Project-Electronic-Line-Protection-Box-10x9_7x4cm-p-1018191.html](http://www.banggood.com/Black-Aluminum-Case-DIY-Project-Electronic-Line-Protection-Box-10x9_7x4cm-p-1018191.html)
