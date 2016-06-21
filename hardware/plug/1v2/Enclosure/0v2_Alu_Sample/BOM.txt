@@ -1,0 +1,4 @@
+1x enclosure 97x40x100
+4x 	M3x10+6mmmm Brass Male-Female Spacers
+12x M3x8 SS Button Head Socket Cap Screw
+1x PCB panel 10x10 cm (Front panel, rear panel, 4x holders)
