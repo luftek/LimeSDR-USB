@@ -22,16 +22,13 @@ Front panel needs user input on LED placement.
 - design holding tabs and fix with M3 screw+nut (board is on top of tabs, clearence of bottom components)
 
 ![0v2_front_render](_images/0v2_front_render.jpg) 
-![0v2_back_render_notOK](_images/0v2_back_render_notOK.jpg) 
+![0v2_back_render](_images/0v2_back_render.jpg) 
 ![Holding_tabs](_images/holding_tabs.jpg)
 
 
 
 ## TODO:
-- design holding tabs and fix with M3 screw+nut (board is on top of tabs, clearence of bottom components)
-- and Rear panel
-	-   two holes for micro USB and DC socket
-- check needed lengths of cables from panel to board (currently it seems 5cm will be plenty)
+- send examples of enclosure and first pcb panel to owners of LimeSDR
 
 ![5cm_cable](_images/5cm_cable.jpg)
 
