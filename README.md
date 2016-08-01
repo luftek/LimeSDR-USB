@@ -1,9 +1,10 @@
-### Making Enclosure for 1v2 micro USB type
+### Making Enclosure
+current status: sending samples (have 10pcs of PCB panels left)
 
 ---> More in:
 [hardware/plug/1v2/Enclosure/](https://github.com/luftek/LimeSDR-USB/tree/master/hardware/plug/1v2/Enclosure/0v3_Alu_Sample_better_documentation)
 
-![Sample Enclosure 0v1](hardware/plug/1v2/Enclosure/0v2_Alu_Sample_tabs/_images/0v1_3.jpg)
+![Sample Enclosure 0v1](hardware/plug/1v2/Enclosure/0v3_Alu_Sample_better_documentation/_images/front_panel_v3_small.jpg)
 
 # LimeSDR
 
