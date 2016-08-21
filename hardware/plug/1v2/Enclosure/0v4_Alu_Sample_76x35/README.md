@@ -12,11 +12,11 @@
 - Fulfillment by DP F&S setup
 
 
-![Design 76x35](/_images/small/small_1.png)
-![Design 76x35](/_images/small/small_2.png)
+![Design 76x35](_images/small/small_1.png)
+![Design 76x35](_images/small/small_2.png)
 
-![Design 76x35](/_images/small/small_3.png)
-![Design 76x35](/_images/small/small_4.png)
+![Design 76x35](_images/small/small_3.png)
+![Design 76x35](_images/small/small_4.png)
 
-![Design 76x35](/_images/small/small_5.png)
-![Design 76x35](/_images/small/small_6.png)
+![Design 76x35](_images/small/small_5.png)
+![Design 76x35](_images/small/small_6.png)
