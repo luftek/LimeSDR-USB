@@ -1,10 +1,26 @@
 ### Making Enclosure
-current status: sending samples (have 10pcs of PCB panels left)
+current status:
+ 
+- 1st batch for enclosure 97x40 sold on eBay,
+[eBay listing](http://www.ebay.com/itm/NO-STOCK-LimeSDR-enclosure-front-rear-panel-case-rtl-sdr-myriad-hackrf-airspy-/112088499793)
+- 76x35 version samples ordered and hopefully arriving in 2 weeks (will try Dangerous Prototypes Fulfillment)
+- receive packet from Lime Microsystems (they said they would send me defect board)
 
----> More in:
-[hardware/plug/1v2/Enclosure/](https://github.com/luftek/LimeSDR-USB/tree/master/hardware/plug/1v2/Enclosure/0v3_Alu_Sample_better_documentation)
+### ---> More in: [hardware/plug/1v2/Enclosure/](https://github.com/luftek/LimeSDR-USB/tree/master/hardware/plug/1v2/Enclosure/)
 
-![Sample Enclosure 0v1](hardware/plug/1v2/Enclosure/0v3_Alu_Sample_better_documentation/_images/front_panel_v3_small.jpg)
+
+Sample of 97x40 design:
+
+![Sample Enclosure 97x40](hardware/plug/1v2/Enclosure/0v3_Alu_Sample_better_documentation/_images/present_kit.jpg)
+
+
+20160819_76x35_Combined_Bottom.png
+
+![20160819_76x35_Combined_Bottom.png](hardware/plug/1v2/Enclosure/0v4_Alu_Sample_76x35/_images/20160819_76x35_Combined_Bottom.png)
+
+20160819_76x35_Combined_Top.png
+
+![20160819_76x35_Combined_Top.png](hardware/plug/1v2/Enclosure/0v4_Alu_Sample_76x35/_images/20160819_76x35_Combined_Top.png)
 
 # LimeSDR
 
