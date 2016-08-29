@@ -3,8 +3,8 @@ current status:
  
 - 1st batch for enclosure 97x40 sold on eBay,
 [eBay listing](http://www.ebay.com/itm/NO-STOCK-LimeSDR-enclosure-front-rear-panel-case-rtl-sdr-myriad-hackrf-airspy-/112088499793)
-- 76x35 version samples ordered and hopefully arriving in 2 weeks (will try Dangerous Prototypes Fulfillment)
-- receive packet from Lime Microsystems (they said they would send me defect board)
+- 76x35 version batch made, 1pcs hopefully arriving this week
+- no packet from Lime Microsystems (they said they would send me defect board) :/ well ok, will send sample to Josh (maybe he want to check with 76x35 case)
 
 ### ---> More in: [hardware/plug/1v2/Enclosure/](https://github.com/luftek/LimeSDR-USB/tree/master/hardware/plug/1v2/Enclosure/)
 

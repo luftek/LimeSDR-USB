@@ -1,6 +1,7 @@
 ## TODO:
 
-- waiting also for 1 pcs to confirm, to arrive in Sept.?
+- 29.8.2016 panels made
+- waiting for 1 pcs to arrive in this or next week
 - try the fit
 - eBay listing needs new photos
 
@@ -8,7 +9,7 @@
 ## DONE:
 
 - 76x35 designs made
-- sent to production, DPDirtyPCB
+- sent to production, DP DirtyPCB
 - Fulfillment by DP F&S setup
 
 

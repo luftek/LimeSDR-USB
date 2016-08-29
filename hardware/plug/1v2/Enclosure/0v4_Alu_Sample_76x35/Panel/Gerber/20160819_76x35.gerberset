@@ -14,8 +14,8 @@
   <Instances>
     <GerberInstance>
       <Center>
-        <X>-1.38</X>
-        <Y>35.84</Y>
+        <X>-1</X>
+        <Y>36</Y>
       </Center>
       <Angle>0</Angle>
       <GerberPath>C:\Users\Borec\Documents\GitHub\LimeSDR-USB\hardware\plug\1v2\Enclosure\0v4_Alu_Sample_76x35\Panel\Gerber\20160819_front_panel</GerberPath>
@@ -23,7 +23,7 @@
     </GerberInstance>
     <GerberInstance>
       <Center>
-        <X>-2</X>
+        <X>-1</X>
         <Y>73</Y>
       </Center>
       <Angle>0</Angle>
