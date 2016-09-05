@@ -1,23 +1,19 @@
-## TODO:
+## DONE 76x35 panel:
 
-- 29.8.2016 panels made
-- waiting for 1 pcs to arrive in this or next week
-- try the fit
-- eBay listing needs new photos
+- real 76x35 panel is solid
+- SMA connectors fit, no filing needed
+- fit is preatty tight, not "perfect" probably could reduce by 0.05 or 0.1 mm (I checked 1 panel, don't know how are others)
+- hole to fill remaining opening for USB is great (some issue with pcb fab, like the used too big router)
 
-
-## DONE:
-
-- 76x35 designs made
-- sent to production, DP DirtyPCB
-- Fulfillment by DP F&S setup
+### 2st batch for enclosure 76x35x100 selling on eBay [eBay listing](http://www.ebay.com/itm/NO-STOCK-LimeSDR-enclosure-front-rear-panel-case-rtl-sdr-myriad-hackrf-airspy-/112088499793)
 
 
-![Design 76x35](_images/small/small_1.png)
-![Design 76x35](_images/small/small_2.png)
+![Design 76x35](_images/real/IMG_20160905_171826.jpg)
+![Design 76x35](_images/real/IMG_20160905_171844.jpg)
 
-![Design 76x35](_images/small/small_3.png)
-![Design 76x35](_images/small/small_4.png)
+![Design 76x35](_images/real/IMG_20160905_174453.jpg)
+![Design 76x35](_images/real/IMG_20160905_181036.jpg)
 
-![Design 76x35](_images/small/small_5.png)
-![Design 76x35](_images/small/small_6.png)
+![Design 76x35](_images/real/IMG_20160905_181103.jpg)
+![Design 76x35](_images/real/IMG_20160905_181118.jpg)
+

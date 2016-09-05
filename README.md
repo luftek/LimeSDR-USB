@@ -1,17 +1,29 @@
 ### Making Enclosure
 current status:
  
-- 1st batch for enclosure 97x40 sold on eBay,
-[eBay listing](http://www.ebay.com/itm/NO-STOCK-LimeSDR-enclosure-front-rear-panel-case-rtl-sdr-myriad-hackrf-airspy-/112088499793)
-- 76x35 version batch made, 1pcs hopefully arriving this week
-- no packet from Lime Microsystems (they said they would send me defect board) :/ well ok, will send sample to Josh (maybe he want to check with 76x35 case)
+### 2st batch for enclosure 76x35 selling on eBay [eBay listing](http://www.ebay.com/itm/NO-STOCK-LimeSDR-enclosure-front-rear-panel-case-rtl-sdr-myriad-hackrf-airspy-/112088499793)
 
 ### ---> More in: [hardware/plug/1v2/Enclosure/](https://github.com/luftek/LimeSDR-USB/tree/master/hardware/plug/1v2/Enclosure/)
 
+https://github.com/luftek/LimeSDR-USB/raw/master/hardware/plug/1v2/Enclosure/0v4_Alu_Sample_76x35/_images/real/IMG_20160905_171826.jpg
 
-Sample of 97x40 design:
 
-![Sample Enclosure 97x40](hardware/plug/1v2/Enclosure/0v3_Alu_Sample_better_documentation/_images/present_kit.jpg)
+## DONE 76x35 panel:
+
+- real 76x35 panel is solid
+- SMA connectors fit, no filing needed
+- fit is preatty tight, not "perfect" probably could reduce by 0.05 or 0.1 mm (I checked 1 panel, don't know how are others)
+- hole to fill remaining opening for USB is great (some issue with pcb fab, like the used too big router)
+
+
+![Design 76x35](https://github.com/luftek/LimeSDR-USB/raw/master/hardware/plug/1v2/Enclosure/0v4_Alu_Sample_76x35/_images/real/IMG_20160905_171826.jpg)
+![Design 76x35](https://github.com/luftek/LimeSDR-USB/raw/master/hardware/plug/1v2/Enclosure/0v4_Alu_Sample_76x35/_images/real/IMG_20160905_171844.jpg)
+
+![Design 76x35](https://github.com/luftek/LimeSDR-USB/raw/master/hardware/plug/1v2/Enclosure/0v4_Alu_Sample_76x35/_images/real/IMG_20160905_174453.jpg)
+![Design 76x35](https://github.com/luftek/LimeSDR-USB/raw/master/hardware/plug/1v2/Enclosure/0v4_Alu_Sample_76x35/_images/real/IMG_20160905_181036.jpg)
+
+![Design 76x35](https://github.com/luftek/LimeSDR-USB/raw/master/hardware/plug/1v2/Enclosure/0v4_Alu_Sample_76x35/_images/real/IMG_20160905_181103.jpg)
+![Design 76x35](https://github.com/luftek/LimeSDR-USB/raw/master/hardware/plug/1v2/Enclosure/0v4_Alu_Sample_76x35/_images/real/IMG_20160905_181118.jpg)
 
 
 20160819_76x35_Combined_Bottom.png
