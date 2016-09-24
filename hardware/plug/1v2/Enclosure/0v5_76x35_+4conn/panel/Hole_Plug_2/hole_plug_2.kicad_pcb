@@ -1,9 +1,9 @@
-(kicad_pcb (version 4) (host pcbnew "(2016-07-22 BZR 6991, Git 146a78a)-product")
+(kicad_pcb (version 20160815) (host pcbnew "(2016-09-17 revision 679eef1)-makepkg")
 
   (general
-    (links 2)
-    (no_connects 0)
-    (area 57.479999 119.409999 69.830001 124.110001)
+    (links 3)
+    (no_connects 1)
+    (area 55.672143 114.8775 71.647857 126.127857)
     (thickness 1.6)
     (drawings 27)
     (tracks 1)
@@ -87,7 +87,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory Gerber/20160819_hole_plug_2/))
+      (outputdirectory ../_Gerber/20160924_hole_plug_2/))
   )
 
   (net 0 "")
@@ -100,10 +100,12 @@
     (via_drill 0.4)
     (uvia_dia 0.3)
     (uvia_drill 0.1)
+    (diff_pair_gap 0.25)
+    (diff_pair_width 0.2)
     (add_net GND)
   )
 
-  (module Connect:1pin (layer B.Cu) (tedit 57D43151) (tstamp 57D43114)
+  (module Connect:1pin (layer B.Cu) (tedit 57E682F9) (tstamp 57D43114)
     (at 63.47 120.11 90)
     (descr "module 1 pin (ou trou mecanique de percage)")
     (tags DEV)
@@ -117,7 +119,7 @@
       (net 1 GND) (zone_connect 2) (thermal_width 0.3) (thermal_gap 0.5))
   )
 
-  (module Connect:1pin (layer F.Cu) (tedit 57D426EA) (tstamp 57D42815)
+  (module Connect:1pin (layer F.Cu) (tedit 57E682F9) (tstamp 57D42815)
     (at 58.09 120.01)
     (descr "module 1 pin (ou trou mecanique de percage)")
     (tags DEV)
@@ -131,7 +133,7 @@
       (net 1 GND) (zone_connect 1) (thermal_width 0.5) (thermal_gap 0.3))
   )
 
-  (module Connect:1pin (layer F.Cu) (tedit 57D42C0E) (tstamp 57D427FA)
+  (module Connect:1pin (layer F.Cu) (tedit 57E682F9) (tstamp 57D427FA)
     (at 69.23 120.01)
     (descr "module 1 pin (ou trou mecanique de percage)")
     (tags DEV)
@@ -145,7 +147,7 @@
       (net 1 GND) (zone_connect 1) (thermal_width 0.5) (thermal_gap 0.3))
   )
 
-  (module Connect:1pin (layer F.Cu) (tedit 57D42763) (tstamp 57D427F0)
+  (module Connect:1pin (layer F.Cu) (tedit 57E682F9) (tstamp 57D427F0)
     (at 63.56 123.71 270)
     (descr "module 1 pin (ou trou mecanique de percage)")
     (tags DEV)

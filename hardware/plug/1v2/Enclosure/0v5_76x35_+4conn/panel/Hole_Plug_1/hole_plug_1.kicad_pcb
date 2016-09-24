@@ -1,9 +1,9 @@
-(kicad_pcb (version 4) (host pcbnew "(2016-07-22 BZR 6991, Git 146a78a)-product")
+(kicad_pcb (version 20160815) (host pcbnew "(2016-09-17 revision 679eef1)-makepkg")
 
   (general
-    (links 1)
-    (no_connects 0)
-    (area 56.574999 115.499999 70.575001 119.400001)
+    (links 2)
+    (no_connects 1)
+    (area 52.800953 112.2525 74.339048 124.249079)
     (thickness 1.6)
     (drawings 29)
     (tracks 1)
@@ -87,7 +87,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory Gerber/20160819_hole_plug_2/))
+      (outputdirectory ../_Gerber/20160924_hole_plug_1/))
   )
 
   (net 0 "")
@@ -100,10 +100,12 @@
     (via_drill 0.4)
     (uvia_dia 0.3)
     (uvia_drill 0.1)
+    (diff_pair_gap 0.25)
+    (diff_pair_width 0.2)
     (add_net GND)
   )
 
-  (module Connect:1pin (layer B.Cu) (tedit 57D431F1) (tstamp 57D431C0)
+  (module Connect:1pin (layer B.Cu) (tedit 57E68386) (tstamp 57D431C0)
     (at 63.595 116.56 270)
     (descr "module 1 pin (ou trou mecanique de percage)")
     (tags DEV)
@@ -117,7 +119,7 @@
       (net 1 GND) (zone_connect 2) (thermal_width 0.5) (thermal_gap 0.3))
   )
 
-  (module Connect:1pin (layer F.Cu) (tedit 57D4301C) (tstamp 57D43025)
+  (module Connect:1pin (layer F.Cu) (tedit 57E68386) (tstamp 57D43025)
     (at 57.195 117.385)
     (descr "module 1 pin (ou trou mecanique de percage)")
     (tags DEV)
@@ -131,7 +133,7 @@
       (net 1 GND) (zone_connect 1) (thermal_width 0.5) (thermal_gap 0.3))
   )
 
-  (module Connect:1pin (layer F.Cu) (tedit 57D4301C) (tstamp 57D427FA)
+  (module Connect:1pin (layer F.Cu) (tedit 57E68386) (tstamp 57D427FA)
     (at 69.945 117.385)
     (descr "module 1 pin (ou trou mecanique de percage)")
     (tags DEV)

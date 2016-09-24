@@ -1,9 +1,12 @@
 ### Making Enclosure, current status:
 
-### all pcs from 2st batch SOLD OUT [eBay listing](http://www.ebay.com/itm/NO-STOCK-LimeSDR-enclosure-front-rear-panel-case-rtl-sdr-myriad-hackrf-airspy-/112088499793)
+### 3rd batch in production [eBay listing](http://www.ebay.com/itm/NO-STOCK-LimeSDR-enclosure-front-rear-panel-case-rtl-sdr-myriad-hackrf-airspy-/112088499793)
 
 ### ---> More in: [hardware/plug/1v2/Enclosure/](https://github.com/luftek/LimeSDR-USB/tree/master/hardware/plug/1v2/Enclosure/)
 
+## new panel 76x35 with slight improvements and 4conn version sent to Fab House
+![Design 76x35](https://github.com/luftek/LimeSDR-USB/raw/master/hardware/plug/1v2/Enclosure/0v5_76x35_+4conn/images/20160924_combined_Combined_Bottom.png)
+![Design 76x35](https://github.com/luftek/LimeSDR-USB/raw/master/hardware/plug/1v2/Enclosure/0v5_76x35_+4conn/images/20160924_combined_Combined_Top.png)
 
 ## DONE 76x35 panel:
 
