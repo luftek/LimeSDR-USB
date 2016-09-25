@@ -7,6 +7,8 @@
     <string>C:\Users\Borec\Documents\GitHub\LimeSDR-USB\hardware\plug\1v2\Enclosure\0v5_76x35_+4conn\panel\_Gerber\20160924_hole_plug_2</string>
     <string>C:\Users\Borec\Documents\GitHub\LimeSDR-USB\hardware\plug\1v2\Enclosure\0v5_76x35_+4conn\panel\_Gerber\20160924_hole_plug_1</string>
     <string>C:\Users\Borec\Documents\GitHub\LimeSDR-USB\hardware\plug\1v2\Enclosure\0v5_76x35_+4conn\panel\_Gerber\20160924_tabs</string>
+    <string>C:\Users\Borec\Documents\GitHub\LimeSDR-USB\hardware\plug\1v2\Enclosure\0v5_76x35_+4conn\panel\_Gerber\20160924_hole_plug_2</string>
+    <string>C:\Users\Borec\Documents\GitHub\LimeSDR-USB\hardware\plug\1v2\Enclosure\0v5_76x35_+4conn\panel\_Gerber\20160924_hole_plug_1</string>
   </LoadedOutlines>
   <Instances>
     <GerberInstance>
@@ -34,24 +36,6 @@
       </Center>
       <Angle>0</Angle>
       <GerberPath>C:\Users\Borec\Documents\GitHub\LimeSDR-USB\hardware\plug\1v2\Enclosure\0v5_76x35_+4conn\panel\_Gerber\20160924_rear_panel</GerberPath>
-      <Generated>false</Generated>
-    </GerberInstance>
-    <GerberInstance>
-      <Center>
-        <X>78</X>
-        <Y>36</Y>
-      </Center>
-      <Angle>90</Angle>
-      <GerberPath>C:\Users\Borec\Documents\GitHub\LimeSDR-USB\hardware\plug\1v2\Enclosure\0v5_76x35_+4conn\panel\_Gerber\20160924_hole_plug_2</GerberPath>
-      <Generated>false</Generated>
-    </GerberInstance>
-    <GerberInstance>
-      <Center>
-        <X>78</X>
-        <Y>58</Y>
-      </Center>
-      <Angle>90</Angle>
-      <GerberPath>C:\Users\Borec\Documents\GitHub\LimeSDR-USB\hardware\plug\1v2\Enclosure\0v5_76x35_+4conn\panel\_Gerber\20160924_hole_plug_1</GerberPath>
       <Generated>false</Generated>
     </GerberInstance>
     <GerberInstance>
@@ -88,6 +72,24 @@
       </Center>
       <Angle>0</Angle>
       <GerberPath>C:\Users\Borec\Documents\GitHub\LimeSDR-USB\hardware\plug\1v2\Enclosure\0v5_76x35_+4conn\panel\_Gerber\20160924_tabs</GerberPath>
+      <Generated>false</Generated>
+    </GerberInstance>
+    <GerberInstance>
+      <Center>
+        <X>78</X>
+        <Y>37</Y>
+      </Center>
+      <Angle>90</Angle>
+      <GerberPath>C:\Users\Borec\Documents\GitHub\LimeSDR-USB\hardware\plug\1v2\Enclosure\0v5_76x35_+4conn\panel\_Gerber\20160924_hole_plug_2</GerberPath>
+      <Generated>false</Generated>
+    </GerberInstance>
+    <GerberInstance>
+      <Center>
+        <X>78</X>
+        <Y>57</Y>
+      </Center>
+      <Angle>90</Angle>
+      <GerberPath>C:\Users\Borec\Documents\GitHub\LimeSDR-USB\hardware\plug\1v2\Enclosure\0v5_76x35_+4conn\panel\_Gerber\20160924_hole_plug_1</GerberPath>
       <Generated>false</Generated>
     </GerberInstance>
   </Instances>
