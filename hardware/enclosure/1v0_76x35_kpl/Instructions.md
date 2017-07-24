@@ -4,6 +4,7 @@ In the beginning check that you have everything available and ready
 ##### Materials:
 You need to get separately LimeSDR board and 6x/12x SMA U.FL pigtails (5cm/2inch in this manual)
 ![Materials](./photos/instructions/1.jpg)
+
 ##### Checklist for KIT:
 - alu shell bottom (4 holes)
 - alu shell top (fan cutout, 2 holes)
@@ -37,21 +38,25 @@ photos needed
 ___
 #### 3. Mount fan on top shell:
 ![Fan](./photos/instructions/2.jpg)
+
 1. position steel mesh
 2. place fan as on photo (exhaust fan, cable downward facing), partially screw one metal screw, align steel mesh to cover the cutout
 3. mount 2nd screw and tighten both
 ___
 #### 4. Mount "standoffs":
 ![Standoffs](./photos/instructions/3.jpg)
+
 remove stock standoffs, put plastic screws from top and fix with plastic nut
 ___
 #### 5. Cut and attach heatpad:
 ![Heatpad](./photos/instructions/4.jpg)
+
 1. take scissors and cut 4 smaller pieces, mount them on voltage regul. (AP7361-FGE, IC28, IC30, IC33, IC34)
 2. put remaining part on bare metal
 ___
 #### 6. Screw on bottom shell:
 ![Bottom_shell](./photos/instructions/5.jpg)
+
 ##### !!! WARNING: Orientation of both shells is very important when mounting, see shell groves
 1. place all three components as on photo
 1.a fan on bottom
@@ -61,14 +66,20 @@ ___
 ___
 #### 7. Attach rubber feet:
 ![Rubber_feet](./photos/instructions/6.jpg)
+
 I attached them as red squares on photo
 ___
 #### 8. Prepare front and rear panel:
 ![Panels](./photos/instructions/7.jpg)
-Chose how many SMA connectors you need on front panel, break tabs and use a diamond file or sandpaper
+
+Chose how many SMA connectors you need on front panel, break tabs and use a diamond file or sandpaper. Use 8mm wrench to tighten SMA connectors firmly.
+
+![Panels](./photos/instructions/8.jpg)
+
 ___
 #### 9. Mount SMA pigtails:
 ![Pigtails](./photos/instructions/9.jpg)
+
 Attach pigtails as marked on panels
 RX in v1.4 is marked as on front panel PCB
 TX1_1 = tx1L, TX1_2 = tx1H  
@@ -79,10 +90,12 @@ After attaching pigtails you are ready to slowly mount both panels. Rearrange pi
 ___
 #### 10. Attach heatsinks and fan:
 ![Panels](./photos/instructions/11.jpg)
+
 All heatsinks are rotated as airflow.
 green - small | red - medium | blue - big
 Fan connector as photo (red wire toward front panel)
 
+Continue using you LimeSDR! ;)
 ___
 Please place an issue OR send eBay message if something should be improved. Thank you!
 
