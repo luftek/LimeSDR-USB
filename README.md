@@ -1,14 +1,12 @@
-### Making Enclosure, current status
-### Selling on [eBay listing](http://www.ebay.com/itm/NO-STOCK-LimeSDR-enclosure-front-rear-panel-case-rtl-sdr-myriad-hackrf-airspy-/112088499793)
+#### Enclosure KIT available:
+##### Selling on [eBay listing](http://www.ebay.com/itm/-/122582037877)
+##### -> More design files and photos in: [hardware/enclosure/](./hardware/enclosure/)
 
-### ---> More in: [hardware/plug/1v2/Enclosure/](https://github.com/luftek/LimeSDR-USB/tree/master/hardware/plug/1v2/Enclosure/)
+![Kit_promo_1](./hardware/enclosure/1v0_76x35_kpl/photos/promo/promo_1.jpg)
 
-### 76x35
-![Design 76x35](https://github.com/luftek/LimeSDR-USB/raw/master/hardware/plug/1v2/Enclosure/0v5_76x35_+4conn/images/real/0v5_real_22.jpg)
+![Kit_promo_2](./hardware/enclosure/1v0_76x35_kpl/photos/promo/promo_2.jpg)
 
-![Design 76x35](https://github.com/luftek/LimeSDR-USB/raw/master/hardware/plug/1v2/Enclosure/0v5_76x35_+4conn/images/real/0v5_real_19.jpg)
-
-![Design 76x35](https://github.com/luftek/LimeSDR-USB/raw/master/hardware/plug/1v2/Enclosure/0v5_76x35_+4conn/images/real/0v5_real_16.jpg)
+![Kit_promo_3](./hardware/enclosure/1v0_76x35_kpl/photos/promo/promo_3.jpg)
 
 # LimeSDR
 
