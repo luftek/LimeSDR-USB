@@ -95,6 +95,8 @@ All heatsinks are rotated as airflow.
 green - small | red - medium | blue - big
 Fan connector as photo (red wire toward front panel)
 
+Check FAN operation by manually changing state ON/OFF: https://github.com/luftek/LimeSDR-USB/issues/19
+
 Continue using you LimeSDR! ;)
 ___
 Please place an issue OR send eBay message if something should be improved. Thank you!
