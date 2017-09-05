@@ -2,8 +2,11 @@
 #### 1. Checklist:
 In the beginning check that you have everything available and ready
 ##### Materials:
-You need to get separately LimeSDR board and 6x/12x SMA U.FL pigtails (5cm/2inch in this manual)
-![Materials](./photos/instructions/1.jpg)
+You need to get separately:
+- LimeSDR board
+- 12x SMA U.FL pigtails (5cm/2inch in this manual)
+
+![Materials](./photos/instructions/12.jpg)
 
 ##### Checklist for KIT:
 - alu shell bottom (4 holes)
@@ -16,25 +19,30 @@ You need to get separately LimeSDR board and 6x/12x SMA U.FL pigtails (5cm/2inch
 - pinheader
 - heatpad (1pcs, cut later into more pcs)
 - heatsinks (1x + 2x + 3x)
-- PCB panel (2x front, rear)
+- PCB panel (front, rear)
 - 8 panel screws, torx
 - 4 bicolor LEDs
+- 2 LED holders
 
 ##### Tools:
+- soldering iron kit
 - basic screwdriver set ([link]( https://www.ebay.com/sch/i.html?_nkw=31+in+1+screwdriver))
 - sandpaper OR diamond files
 - wrench size 8 (8 mm) for SMA pigtails
-- soldering iron kit
 
-photos needed
 ___
 #### 2. Prepare LimeSDR board:
 ##### for FAN:
-Populate 0.1" pinheader on the board
-photos needed
+Populate/solder 0.1" pinheader on the board
+![Pinheader](./photos/instructions/13.jpg)
 ##### for LEDs:
-Solder all 4 bicolour LEDs
-photos needed
+
+![LEDs](./photos/instructions/14.jpg)
+1. cut plastic lip on LEDs and use sandpaper to wear plastic off around both leads
+2. test with multimeter (diode or small resistance test)  leds work (red and green)
+3. LED orientation, holder orientation !!! longer lead is on right side when inserting leds
+4. bend leads down
+5. solder on board
 ___
 #### 3. Mount fan on top shell:
 ![Fan](./photos/instructions/2.jpg)
@@ -57,10 +65,10 @@ ___
 #### 6. Screw on bottom shell:
 ![Bottom_shell](./photos/instructions/5.jpg)
 
-##### !!! WARNING: Orientation of both shells is very important when mounting, see shell groves
+##### !!! WARNING: Orientation of both shells is very important when mounting, see shell grooves
 1. place all three components as on photo
 1.a fan on bottom
-1.b groves that fit together
+1.b grooves that fit together
 1.c RF IC on bottom
 2. turn bottom shell over and screw remaining 4 plastic nuts
 ___
@@ -72,7 +80,7 @@ ___
 #### 8. Prepare front and rear panel:
 ![Panels](./photos/instructions/7.jpg)
 
-Chose how many SMA connectors you need on front panel, break tabs and use a diamond file or sandpaper. Use 8mm wrench to tighten SMA connectors firmly.
+Use 8mm wrench to tighten SMA connectors firmly.
 
 ![Panels](./photos/instructions/8.jpg)
 
@@ -91,13 +99,11 @@ ___
 #### 10. Attach heatsinks and fan:
 ![Panels](./photos/instructions/11.jpg)
 
-All heatsinks are rotated as airflow.
-green - small | red - medium | blue - big
-Fan connector as photo (red wire toward front panel)
+All heatsinks are rotated as airflow. | green - small | red - medium | blue - big | Fan connector as photo (red wire toward front panel)
 
 Check FAN operation by manually changing state ON/OFF: https://github.com/luftek/LimeSDR-USB/issues/19
 
-Continue using you LimeSDR! ;)
+Continue using your LimeSDR! ;)
 ___
 Please place an issue OR send eBay message if something should be improved. Thank you!
 
