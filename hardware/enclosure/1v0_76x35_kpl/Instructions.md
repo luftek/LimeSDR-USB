@@ -78,7 +78,11 @@ ___
 I attached them as red squares on photo
 ___
 #### 8. Prepare front and rear panel:
+Break apart and use sandpaper or diamond files to smooth places where tabs were previously
 ![Panels](./photos/instructions/7.jpg)
+
+(optional) Use black permanent marker and color around the PCB rim
+![Panels](./photos/instructions/15.jpg)
 
 Use 8mm wrench to tighten SMA connectors firmly.
 
