@@ -1,5 +1,5 @@
-#### Enclosure KIT available:
-##### Selling on [eBay listing](http://www.ebay.com/itm/-/122582037877)
+#### Enclosure KIT available @ QRP Labs by Hans Summers
+##### [http://shop.qrp-labs.com/limesdr](http://shop.qrp-labs.com/limesdr)
 ##### -> More design files and photos in: [hardware/enclosure/](./hardware/enclosure/)
 
 ![Kit_promo_1](./hardware/enclosure/1v0_76x35_kpl/photos/promo/promo_1.jpg)
