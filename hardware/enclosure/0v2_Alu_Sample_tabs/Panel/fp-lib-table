@@ -1,4 +1,0 @@
-(fp_lib_table
-  (lib (name LED_tester)(type KiCad)(uri "D:\\Dropbox\\Projekti\\OrodjeElektronika\\LED tester\\PCB\\LED_tester.pretty")(options "")(descr ""))
-  (lib (name KMSwitch)(type KiCad)(uri "D:\\Dropbox\\Projekti\\KM Switch\\Pcb\\KMSwitch.pretty")(options "")(descr ""))
-)
