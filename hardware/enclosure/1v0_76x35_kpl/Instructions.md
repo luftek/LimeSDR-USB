@@ -21,8 +21,7 @@ You need to get separately:
 - heatsinks (1x + 2x + 3x)
 - PCB panel (front, rear)
 - 8 panel screws, torx
-- 4 bicolor LEDs
-- 2 LED holders
+- 2 LED holders with leds installed
 
 ##### Tools:
 - soldering iron kit
@@ -34,15 +33,10 @@ ___
 #### 2. Prepare LimeSDR board:
 ##### for FAN:
 Populate/solder 0.1" pinheader on the board
+
 ![Pinheader](./photos/instructions/13.jpg)
 ##### for LEDs:
-
-![LEDs](./photos/instructions/14.jpg)
-1. cut plastic lip on LEDs and use sandpaper to wear plastic off around both leads
-2. test with multimeter (diode or small resistance test)  leds work (red and green)
-3. LED orientation, holder orientation !!! longer lead is on right side when inserting leds
-4. bend leads down
-5. solder on board
+1. solder LEDs on the board. (Previously some more steps were needed to assemble leds into holder)
 ___
 #### 3. Mount fan on top shell:
 ![Fan](./photos/instructions/2.jpg)
